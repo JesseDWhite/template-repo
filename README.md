@@ -6,11 +6,11 @@
 * _CSS_ 🎨
 * _Javascript_ ☕
 * _Node_ 🧭
-*_Webpack_ 💾
-*_Bootstrap_ 🥾
-## Description
+* _Webpack_ 💾
+* _Bootstrap_ 🥾
+## Description 📜
 _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}
-### Prerequisites
+### Prerequisites 💻
 * [Node](https://nodejs.org/en/)
 * A text editor like [VS Code](https://code.visualstudio.com/)
 ## Setup/Installation Requirements 🏗
@@ -26,7 +26,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 ## Known Bugs 🐛
 * _Any known issues_
 * _should go here_
-## License ©
-_mit (c) Jesse White 2021_
+## License ⚖
+_MIT © Jesse White 2021_
 ## Contact Information 🤳
 Jesse White _jesse.white6@gmail.com_
